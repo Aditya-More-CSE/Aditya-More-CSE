@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**Aditya-More-CSE/Aditya-More-CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | AI Integration | Fast APIs
 
-Here are some ideas to get you started:
+I build practical web applications, experiment with AI-powered systems,
+and work across frontend, backend, and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 🌐 Full-stack web applications
+- 🤖 AI/API integrations
+- ⚡ Fast backend APIs
+- 🧩 Hackathon projects & prototypes
+
+## 🛠️ Tech Stack
+
+**Languages**
+C++ • JavaScript • TypeScript • Python
+
+**Frontend**
+HTML • CSS • React
+
+**Backend**
+Node.js • APIs
+
+**Tools**
+Git • GitHub • VS Code • Vercel
+
+## 📌 Featured Projects
+
+### YatraSetu
+A smart travel/public-service oriented web application.
+
+🔗 Live Demo  
+🔗 Repository
+
+---
+
+### Currently Learning
+
+Data Structures & Algorithms • Backend Development • System Design
+
+## 📫 Connect
+
+[LinkedIn](YOUR_LINKEDIN)
