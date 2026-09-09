@@ -1,22 +1,46 @@
-### Hi, I'm Aditya More 👋 | Full-Stack Developer
+# Hi, I'm Aditya 👋
 
-I build fast, AI-powered web apps that solve real Bharat problems.
-Currently 3rd Year CSE @ AVCOE, Sangamner | Focus: Off-campus 25 LPA
+### Full-Stack Developer | AI Integration | Fast APIs
 
-🚀 **What I'm building:** YatraSetu - AI travel planner with Marathi support
+I build practical web applications, experiment with AI-powered systems,
+and work across frontend, backend, and APIs.
 
-#### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+## 🚀 What I'm Working On
 
-#### 📌 Pinned Project
-**[YatraSetu](https://github.com/Aditya-More-CSE/yatrasetu)** - Smart travel + public service web app
-- Live: vercel link | 2 commits, 100% TypeScript
-- Why different: Marathi/Hindi itinerary + budget logic
+- 🌐 Full-stack web applications
+- 🤖 AI/API integrations
+- ⚡ Fast backend APIs
+- 🧩 Hackathon projects 
 
-#### 📫 Connect
-- LinkedIn: [https://www.linkedin.com/in/aditya-more-cse?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-- Email: adityamore.cse@gmail.com
+## 🛠️ Tech Stack
+
+**Languages**
+C++ • JavaScript • TypeScript • Python
+
+**Frontend**
+HTML • CSS • React
+
+**Backend**
+Node.js • APIs
+
+**Tools**
+Git • GitHub • VS Code • Vercel
+
+## 📌 Featured Projects
+
+### YatraSetu
+A smart travel/public-service oriented web application.
+
+🔗 Live Demo  (https://yatrasetu-tau.vercel.app/)
+
+
+---
+
+### Currently Learning
+
+Data Structures & Algorithms • Backend Development • System Design
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/aditya-more-cse/)
+
