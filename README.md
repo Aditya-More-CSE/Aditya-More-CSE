@@ -9,8 +9,6 @@ and work across frontend, backend, and APIs.
 
 - 🌐 Full-stack web applications
 - 🤖 AI/API integrations
-- ⚡ Fast backend APIs
-- 🧩 Hackathon projects 
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +36,7 @@ A smart travel/public-service oriented web application.
 
 ### Currently Learning
 
-Data Structures & Algorithms • Backend Development • System Design
+Data Structures & Algorithms • Backend Development 
 
 ## 📫 Connect
 
