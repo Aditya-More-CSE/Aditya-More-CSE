@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aditya 👋
+
 
 <img src="https://raw.githubusercontent.com/Aditya-More-CSE/Aditya-More-CSE/main/Assets1/aditya_more_wavy_name-1.gif" width="100%" alt="Aditya More animated header"/>
 
